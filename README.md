@@ -7,3 +7,9 @@ pip install openpyxl
 ```
 
 Openpyxl Docs: https://openpyxl.readthedocs.io/en/stable/index.html
+
+## Run
+
+```bash
+python main.py
+```
